@@ -4,7 +4,7 @@
 
 <?php 
 
-$str = "Banner banner Pattern Poster Label Cover Texture Paper Beauty Typography Layout Packaging Luxury Art Text Advertising Sign Silver Makeup Elegant Golden Branding Product Clean Symbol Skin Brand Care Healthcare Cream Elements Container Solution Shiny Facial Skin care Collection Commercial Hygiene Treatment";
+$str = "Banner banner Pattern Poster Label Covnewcollection spokenenglish londonfashioner  Texture Paper  Typography Layout Packaging Luxury Art Text Advertising Sign Silver Makeup Elegant Golden Branding Product Clean Symbol Skin Brand Care Healthcare Cream Elements Container Solution Shiny Facial Skin care Collection Commercial Hygiene Treatment";
 
 $lowerCaseString = strtolower($str);
 
